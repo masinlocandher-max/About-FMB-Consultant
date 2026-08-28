@@ -16,7 +16,21 @@ The site is designed to answer three questions quickly:
 
 ## Visual direction
 
-The consultancy version intentionally keeps the established FMB editorial system and existing core profile photography for continuity. Miss Intercontinental-specific portfolio concepts are not carried over. Consultancy case studies and portfolio imagery can be added separately once the final work selection is approved.
+The consultancy version intentionally keeps the established FMB editorial system
+— serif display type, plum and gold, hairline rules, numbered sections —
+and extends it with a sticky navigation, scroll-linked reveals, hover states on
+every list and card, a stepped process rail and a dark advocacy band.
+
+Existing core profile photography is kept for continuity. Miss Intercontinental-specific portfolio concepts are not carried over. Consultancy case studies and portfolio imagery can be added separately once the final work selection is approved.
+
+## Advocacy
+
+Local history, Tina Sambal preservation and community work in Masinloc are not
+treated as a line item. Section 04 is a dedicated full-bleed band — the darkest
+and most deliberate moment on the page — so the advocacy reads as part of the
+professional standard, not as a personal footnote. The pillar copy in that
+section is new and written from FMB's existing statements; it is meant to be
+reviewed and reworded in her own voice before launch.
 
 ## Status
 
