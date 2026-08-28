@@ -21,6 +21,11 @@ The consultancy version intentionally keeps the established FMB editorial system
 and extends it with a sticky navigation, scroll-linked reveals, hover states on
 every list and card, a stepped process rail and a dark advocacy band.
 
+The page is structured to convert a visitor into an enquiry: a positioning
+statement and two calls to action above the fold, a credibility strip, concrete
+outcomes before the biography, and a contact section that says exactly what
+happens after someone gets in touch.
+
 Existing core profile photography is kept for continuity. Miss Intercontinental-specific portfolio concepts are not carried over. Consultancy case studies and portfolio imagery can be added separately once the final work selection is approved.
 
 ## Advocacy
@@ -32,9 +37,21 @@ professional standard, not as a personal footnote. The pillar copy in that
 section is new and written from FMB's existing statements; it is meant to be
 reviewed and reworded in her own voice before launch.
 
-## Status
+## Before this goes public
 
-Prepared as a first consultancy-ready version. Portfolio/case-study imagery is intentionally excluded for now.
+Two things need a decision from FMB:
+
+1. **The contact address.** The page currently uses `hello@francinemariebautista.com`
+   in three places (the enquiry button, the contact section and the footer). That
+   mailbox has to exist on the domain, or the address has to be swapped for a real
+   one. Search the file for `hello@` to change it everywhere.
+2. **The new client-facing copy.** The outcomes, the "who I work with" list, the
+   three contact steps and the advocacy pillars are new — written from FMB's own
+   existing statements, but they make commitments (a scoping conversation, a
+   written proposal before work starts) that she should confirm she wants to make.
+
+Case-study imagery is still intentionally excluded; the page now says examples are
+shared on request rather than apologising for an empty portfolio.
 
 ## Repository layout
 
