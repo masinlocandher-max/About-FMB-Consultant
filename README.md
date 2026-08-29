@@ -1,23 +1,30 @@
-# Francine Marie Bautista — Consultant Profile
+# Francine Marie Bautista — Professional Portfolio
 
-Independent consultancy website for Francine Marie Bautista (FMB).
+Independent professional portfolio for Francine Marie Bautista (FMB), intended for employment opportunities, projects, collaborations and professional review.
 
 ## Repository rule
 
-This repository is the source of truth for the consultant experience. It must not depend on, inherit from, or reuse assets from the Miss Intercontinental repository or any other website repository.
+This repository is the source of truth for this portfolio. It must not depend on, inherit from, or reuse assets from unrelated website repositories.
 
-Approved visual sources are assets intentionally selected for this consultancy project, including current FMB photographs and brand files from the approved Google Drive library until they are copied into this repository as local production assets.
+For project visuals, use only assets explicitly approved for this portfolio. The approved Google Drive source is the folder **FMB About Me Consultant**. Do not substitute images found elsewhere in Drive.
 
-## Positioning
+## Evidence standard
 
-FMB is presented as an independent multidisciplinary consultant working across brand strategy, strategic communications, public relations, reputation and perception, creative direction, storytelling, digital products, tourism and place branding, training, culture, community initiatives, photography and media.
+No hallucinated claims. No fake promises. No invented clients, employers, degrees, awards, metrics, partnerships, testimonials, outcomes, adoption figures, reach figures or impact figures.
 
-The site combines a professional CV, selected work, case studies, community outreach and a clear Work with FMB process.
+Every project description must distinguish among:
+- documented or completed work;
+- work currently in development;
+- concepts, intended direction or future goals.
 
-## Current featured case study
+Do not present an intended outcome as an achieved result. Do not say something was deployed, tested, verified, measured or completed unless that status has actually been confirmed.
 
-Masinloc Connect is presented as one case study within a broader body of work. It must not dominate the full FMB portfolio.
+## Portfolio structure
 
-## Status
+The site combines a professional profile, education and work experience, multidisciplinary capabilities, selected work, case studies, community initiatives and a contact path for professional opportunities.
 
-Active independent consultant website. Keep all future design and content decisions scoped to this repository unless explicitly instructed otherwise.
+Masinloc Connect is one featured case study within a broader body of work. It must not be presented as the entirety of FMB's professional identity.
+
+## Current status
+
+Independent professional portfolio under active development. Keep future design and content decisions scoped to this repository unless explicitly instructed otherwise.
